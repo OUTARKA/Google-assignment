@@ -1,0 +1,107 @@
+
+.Header{
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+    word-wrap: break-word;
+    padding: 16px;
+    border-style: solid;
+    margin: 2px 2px 10px 10px;
+    
+
+    
+    
+    
+}
+
+    
+
+.box{
+
+    border: 0.1px solid  #000;
+    position:absolute;
+    top: 130%;
+    left: 90%;
+    transform: translate(-80%,-40%);
+    padding:10px ;
+    height :30px;
+    width : 500px; 
+    box-shadow: 1px 1px 5px  #888;
+    border-radius: 40px;
+}
+
+
+
+
+
+
+.button{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 170%;
+    left:5%;
+    transform: translate (-80%,-80%);
+}
+.main-content{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 30%;
+    left:40%;
+   
+    transform: translate (-50%,-50%);
+    
+    
+
+    
+
+
+}
+.footer{
+    display:flex;
+    align-items:flex-start ;
+    justify-content: flex-start;
+    position: absolute;
+    top: 400%;
+    left:-140%;
+    
+    border-bottom: grey;
+    
+   
+    transform: translate (-50%,-50%);
+
+}
+.Links{
+    display:flex;
+    align-items:center ;
+    justify-content: center;
+    color: #6e6e6e;
+    
+   
+}
+.menulink{
+    display:flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    word-wrap: break-word;
+    padding: 7px;
+    position: relative;
+    top: 100%;
+    left: 74%;
+    transform: translate (-70%,-70%);
+   
+    font-size: 20px;
+  padding: 16px;
+  display: inline-block;
+    
+    
+    
+
+ 
+}
+
+
+    
